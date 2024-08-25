@@ -1,0 +1,18 @@
+.collapse img{
+    width: 68px;
+    height: 59px;
+    border-radius: 6px;
+}
+.shows{
+    display: none;
+    cursor: pointer;
+    border-radius: 8px;
+    text-align: center;
+}
+.k:hover .shows{
+    display: block;
+    position: absolute;
+}
+.shows p{
+    color: white;
+}

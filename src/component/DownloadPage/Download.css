@@ -1,0 +1,14 @@
+.download {
+    justify-content: space-around;
+    padding: 12px;
+    margin-top: 34px;
+}
+.download-left{
+    width: 35%;
+}
+.download-right{
+    width: 35%;
+}
+.icon img{
+    width: 171px;
+}

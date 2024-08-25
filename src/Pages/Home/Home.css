@@ -1,0 +1,23 @@
+
+.home img{
+    height: 70vh;
+    width: 100%;
+
+}
+.download {
+    justify-content: space-around;
+    padding: 12px;
+    margin-top: 41px;
+    margin-bottom: 12px;
+}
+.download-left{
+    width: 35%;
+    margin-top: 21px;
+}
+.download-right{
+    width: 35%;
+}
+.icon img{
+    width: 171px;
+    height: 44px;
+}
